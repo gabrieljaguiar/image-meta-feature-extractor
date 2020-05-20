@@ -1,0 +1,5 @@
+scikit-image
+opencv2
+numpy
+pandas
+imutils

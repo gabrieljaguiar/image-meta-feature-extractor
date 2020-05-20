@@ -8,7 +8,7 @@ Library to extract meta-features from images.
 git clone https://github.com/gabrieljaguiar/image-meta-feature-extractor.git
 ```
 
-#Instructions
+## Instructions
 
 The input folder is the folder of every image the user wants to extract the meta-features. The images can be in any format that opencv can open. The output file must be a .csv file in which the features are going to be write. There is a folder with example files, please check them.
 

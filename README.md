@@ -65,8 +65,3 @@ Also, use Python **3.6**+!
   publisher={Elsevier}
 }
 ```
-
-
-## References
-
-[1] AGUIAR, Gabriel Jonas et al. A meta-learning approach for selecting image segmentation algorithm. **Pattern Recognition Letters**, v. 128, p. 480-487, 2019. Available [here](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302983).

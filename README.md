@@ -53,6 +53,20 @@ The following Python packages are required:
 
 Also, use Python **3.6**+!
 
+## Citation
+```
+@article{aguiar2019meta,
+  title={A meta-learning approach for selecting image segmentation algorithm},
+  author={Aguiar, Gabriel Jonas and Mantovani, Rafael Gomes and Mastelini, Saulo M and de Carvalho, Andre CPFL and Campos, Gabriel FC and Junior, Sylvio Barbon},
+  journal={Pattern Recognition Letters},
+  volume={128},
+  pages={480--487},
+  year={2019},
+  publisher={Elsevier}
+}
+```
+
+
 ## References
 
 [1] AGUIAR, Gabriel Jonas et al. A meta-learning approach for selecting image segmentation algorithm. **Pattern Recognition Letters**, v. 128, p. 480-487, 2019. Available [here](https://www.sciencedirect.com/science/article/abs/pii/S0167865519302983).

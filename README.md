@@ -27,19 +27,8 @@ In this library, 97 meta-features are extracted.
 - Image Quality (2)
 - Texture (19)
 
-All of these features are presented or referenced in Aguiar _et al_ (2019) **[1]**. Also, if you use this extractor, please cite us:
 
-```bash
-@article{aguiar2019meta,
-  title={A meta-learning approach for selecting image segmentation algorithm},
-  author={Aguiar, Gabriel Jonas and Mantovani, Rafael Gomes and Mastelini, Saulo M and de Carvalho, Andr{\'e} CPFL and Campos, Gabriel FC and Junior, Sylvio Barbon},
-  journal={Pattern Recognition Letters},
-  volume={128},
-  pages={480--487},
-  year={2019},
-  publisher={Elsevier}
-}
-```
+
 
 ## Requirements
 
@@ -54,6 +43,8 @@ The following Python packages are required:
 Also, use Python **3.6**+!
 
 ## Citation
+All of these features are presented or referenced in Aguiar _et al_ (2019) **[1]**. Also, if you use this extractor, please cite us:
+
 ```
 @article{aguiar2019meta,
   title={A meta-learning approach for selecting image segmentation algorithm},
